@@ -1,2 +1,2 @@
 console.log("Teste GitHub");
-console.log("Teste");
+console.log("Teste Hello");
